@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peacock05
-- 👀 I’m interested in quantum physics, quantum computing and simulations.
+- 👀 I’m interested in physics and simulations.
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on validation of standard model through simulation.
+- 💞️ I’m looking to collaborate simulation projects that predict and validate the phenomena.
 - 📫 How to reach me, first let me see to work on interesting stuff and later think of sharing the contact.
 
 <!---
